@@ -14,7 +14,7 @@ hash = "3f1cb826beda513a77896a9448a841e3834486e3ee0358a9b7f5e392924d3852"
 
 [[files]]
 file = "config/livinghorizons.json"
-hash = "5d6695c8b8640a8f42b0bc8fec3f7077f31cf7271d9f0b1b2c10eb3efaf3d58f"
+hash = "2b38b3ada43f35b96e1e4cdafa282391d5aab76a259b24048b1c9862f73db190"
 
 [[files]]
 file = "config/livingwind-client.toml"
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/living-horizons.pw.toml"
-hash = "8593b08bad7ce0be8a695e1bcea6ddb998f0c8cef5f18a4360020924e731cd1d"
+hash = "f6736be065b20a705f607e5f044ae6dc059435505e19c81dab93535187d10899"
 metafile = true
 
 [[files]]

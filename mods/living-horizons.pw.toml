@@ -1,13 +1,13 @@
 name = "Living Horizons"
-filename = "livinghorizons-forge-1.12.0-1.20.1.jar"
+filename = "livinghorizons-forge-1.14.2-1.20.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "3d0ecb890a25f97725938742a32b662f0dd26013"
+hash = "13492be3d0b10de6920b291af45131740286cd3e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9621013
+file-id = 9687466
 project-id = 1770037
