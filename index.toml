@@ -6,23 +6,11 @@ hash = "90d1730be1924ad010f015572942357965ee7a4456b72ffda044f5de3c38e2ce"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "2fea961eb6ec7866622d5ad4aceec1f6cf8563f823cd4b878831c5ad2b3e848d"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "3577bfc8624dc85a03c671d142a2ddc2e1b07adca9b88228630436b73bd7f637"
-
-[[files]]
-file = "config/fancymenu/customization/gui_main_menu.txt"
-hash = "d42e423967cf97a108fe23d977199066071914963da397e393bcb236267410e9"
-
-[[files]]
-file = "config/fancymenu/customization/gui_main_menu_beneath.txt"
-hash = "d69a9e598f2f183eba84d08bd1f00ddcd7788ad66d9522f20d12e208e6b8426b"
+hash = "a46e91c23e69b585c051a0b7c5ad963158adaf741831eb03096d0590cf64cbdf"
 
 [[files]]
 file = "config/hoarfrost-client.toml"
-hash = "c76bdcd0a81d8344f3da4616750dc4a34f0fd5dbe8af4f6c40f3cef0670ab67c"
+hash = "3f1cb826beda513a77896a9448a841e3834486e3ee0358a9b7f5e392924d3852"
 
 [[files]]
 file = "config/livinghorizons.json"
@@ -38,11 +26,11 @@ hash = "d760d753f4d22d215f921883db143ac39546e08b54c1f788ce6439377bdf3acd"
 
 [[files]]
 file = "config/omniwheel/profiles.json"
-hash = "ae7df2da8dae355d279dcc07a2731a189f71f6ffc2ac37adb23f9ff8dd46a7d5"
+hash = "24867b9bc7a4906bf58de46b3680886c7bc8cbd6fdd6513bd5cd330af94e9905"
 
 [[files]]
 file = "config/omniwheel/tutorials.json"
-hash = "6c8591cf95faa0ef2210e79e67fea5afbbc85b6f51434de4b3b245b91da67f6d"
+hash = "7e87a0e3d023b1aec2f2fea55e018ad38fa2b8e0534bc0ccbc7a5f826f71b2c6"
 
 [[files]]
 file = "config/petrichor-client.toml"
@@ -194,4 +182,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e8c1f77eb9dfc70b277db6bcd9c4f5186e380ffa2a9d34021abdff5390a5811e"
+hash = "a54005ced6f52e66d1b4cc1168cf60c34add42db57d061a69636363f77ab87d5"
