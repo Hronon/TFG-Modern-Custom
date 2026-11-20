@@ -49,6 +49,10 @@ file = "config/reliable_remover/tfg_customization.json"
 hash = "a36b02b9dd24251966cfd1be2d3b8e97ec8675072097fea55d320a446a6b0c9f"
 
 [[files]]
+file = "kubejs/assets/ad_astra/planet_renderers/earth.json"
+hash = "9918fbddea162ecbee045f194923c8b0d2e3e3c4e7eb1a25ae5b11afc396b8b8"
+
+[[files]]
 file = "kubejs/server_scripts/main_server_script_custom.js"
 hash = "9fea173211c92f7c27929ce89ad94e27875ae57299c9daa347f1dfaf1522c60d"
 
