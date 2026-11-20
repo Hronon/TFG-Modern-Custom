@@ -1,7 +1,7 @@
 # How to install
 
 ### PrismLauncher
-1. Download latest packwiz-installer-bootstrap from `https://github.com/packwiz/packwiz-installer-bootstrap/releases`
+1. Download latest packwiz-installer-bootstrap from `[packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases)`
 2. Copy `packwiz-installer-bootstrap.jar` to `minecraft` folder (with mods, configs inside)
 3. Download official TerraFirmaGreg-Modern modpack from curseforge
 4. Click on modpack instance -> `Edit` (right side menu) -> `Settings`

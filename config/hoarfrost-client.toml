@@ -21,15 +21,15 @@ quality = "HIGH"
 
 [ground]
 	#Snow settles on the ground, roofs, crowns and posts: more in the lee and in hollows, less on windswept ridges, a little under crowns and in cave mouths. Melts near lamps and in warm land.
-	cover = true
+	cover = false
 	#Snow lies on distant land out to the render distance, and on the crowns of trees there (simplified).
-	distant = true
+	distant = false
 	#Snow lies on the leaves in snowy biomes: a cap on the top of the crowns and over their edges.
-	snowyLeaves = true
+	snowyLeaves = false
 	#Feet press dents into the snow and pack paths.
-	footprints = true
+	footprints = false
 	#Gusts, explosions and feet lift powder off the snow; it rises in a cloud and settles slowly.
-	powder = true
+	powder = false
 
 [atmosphere]
 	#How much falling snow closes in the view distance (a heavy blizzard becomes a whiteout). 0 = vanilla fog.

@@ -8,177 +8,6 @@
       "rootWheelId": "vanilla_main",
       "wheels": [
         {
-          "id": "inspect",
-          "title": "omniwheel.default.wheel.inspect",
-          "description": "",
-          "segmentCount": 8,
-          "active": true,
-          "entries": [
-            {
-              "id": "block_info",
-              "label": "omniwheel.default.entry.block_info",
-              "description": "omniwheel.default.entry.block_info.description",
-              "icon": "minecraft:spyglass",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "local_message",
-                "value": "omniwheel.default.text.block_info",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_block_position",
-              "label": "omniwheel.default.entry.copy_block_position",
-              "description": "omniwheel.default.entry.copy_block_position.description",
-              "icon": "minecraft:map",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{target_block_position}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_block_id",
-              "label": "omniwheel.default.entry.copy_block_id",
-              "description": "omniwheel.default.entry.copy_block_id.description",
-              "icon": "minecraft:stone",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{target_block_id}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "entity_info",
-              "label": "omniwheel.default.entry.entity_info",
-              "description": "omniwheel.default.entry.entity_info.description",
-              "icon": "minecraft:name_tag",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "local_message",
-                "value": "omniwheel.default.text.entity_info",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_entity_uuid",
-              "label": "omniwheel.default.entry.copy_entity_uuid",
-              "description": "omniwheel.default.entry.copy_entity_uuid.description",
-              "icon": "minecraft:lead",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{target_entity_uuid}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_entity_position",
-              "label": "omniwheel.default.entry.copy_entity_position",
-              "description": "omniwheel.default.entry.copy_entity_position.description",
-              "icon": "minecraft:compass",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{target_entity_position}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "item_info",
-              "label": "omniwheel.default.entry.item_info",
-              "description": "omniwheel.default.entry.item_info.description",
-              "icon": "minecraft:diamond_pickaxe",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "local_message",
-                "value": "omniwheel.default.text.item_info",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_item_id",
-              "label": "omniwheel.default.entry.copy_item_id",
-              "description": "omniwheel.default.entry.copy_item_id.description",
-              "icon": "minecraft:item_frame",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{held_item_id}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            }
-          ],
-          "radialOrder": [
-            "block_info",
-            "copy_block_position",
-            "copy_block_id",
-            "entity_info",
-            "copy_entity_uuid",
-            "copy_entity_position",
-            "item_info",
-            "copy_item_id"
-          ]
-        },
-        {
           "id": "view",
           "title": "omniwheel.default.wheel.view",
           "description": "",
@@ -350,16 +179,16 @@
           ]
         },
         {
-          "id": "vanilla_main",
-          "title": "omniwheel.default.wheel.main",
+          "id": "inspect",
+          "title": "omniwheel.default.wheel.inspect",
           "description": "",
-          "segmentCount": 4,
+          "segmentCount": 8,
           "active": true,
           "entries": [
             {
-              "id": "entry_1",
-              "label": "Jade",
-              "description": "",
+              "id": "block_info",
+              "label": "omniwheel.default.entry.block_info",
+              "description": "omniwheel.default.entry.block_info.description",
               "icon": "minecraft:spyglass",
               "color": -2498329,
               "guiColor": -668915663,
@@ -369,17 +198,17 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "keybind",
-                "value": "key.jade.show_overlay",
+                "type": "local_message",
+                "value": "omniwheel.default.text.block_info",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "entry_2",
-              "label": "OmniWheel",
-              "description": "",
-              "icon": "create:clipboard",
+              "id": "copy_block_position",
+              "label": "omniwheel.default.entry.copy_block_position",
+              "description": "omniwheel.default.entry.copy_block_position.description",
+              "icon": "minecraft:map",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -388,17 +217,17 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "keybind",
-                "value": "key.omniwheel.open_manager",
+                "type": "copy_text",
+                "value": "{target_block_position}",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "entry_3",
-              "label": "Calculator",
-              "description": "",
-              "icon": "gtceuterminal:dismantler",
+              "id": "copy_block_id",
+              "label": "omniwheel.default.entry.copy_block_id",
+              "description": "omniwheel.default.entry.copy_block_id.description",
+              "icon": "minecraft:stone",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -407,17 +236,17 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "keybind",
-                "value": "key.gtcalcboard.open_board",
+                "type": "copy_text",
+                "value": "{target_block_id}",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "entry_4",
-              "label": "Placement",
-              "description": "",
-              "icon": "minecraft:bamboo_mosaic_stairs",
+              "id": "entity_info",
+              "label": "omniwheel.default.entry.entity_info",
+              "description": "omniwheel.default.entry.entity_info.description",
+              "icon": "minecraft:name_tag",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -426,32 +255,112 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "keybind",
-                "value": "key.additionalplacements.placement_toggle",
+                "type": "local_message",
+                "value": "omniwheel.default.text.entity_info",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "copy_entity_uuid",
+              "label": "omniwheel.default.entry.copy_entity_uuid",
+              "description": "omniwheel.default.entry.copy_entity_uuid.description",
+              "icon": "minecraft:lead",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "copy_text",
+                "value": "{target_entity_uuid}",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "copy_entity_position",
+              "label": "omniwheel.default.entry.copy_entity_position",
+              "description": "omniwheel.default.entry.copy_entity_position.description",
+              "icon": "minecraft:compass",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "copy_text",
+                "value": "{target_entity_position}",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "item_info",
+              "label": "omniwheel.default.entry.item_info",
+              "description": "omniwheel.default.entry.item_info.description",
+              "icon": "minecraft:diamond_pickaxe",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "local_message",
+                "value": "omniwheel.default.text.item_info",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "copy_item_id",
+              "label": "omniwheel.default.entry.copy_item_id",
+              "description": "omniwheel.default.entry.copy_item_id.description",
+              "icon": "minecraft:item_frame",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "copy_text",
+                "value": "{held_item_id}",
                 "requireConfirmation": false,
                 "preset": false
               }
             }
           ],
           "radialOrder": [
-            "entry_1",
-            "entry_2",
-            "entry_3",
-            "entry_4"
+            "block_info",
+            "copy_block_position",
+            "copy_block_id",
+            "entity_info",
+            "copy_entity_uuid",
+            "copy_entity_position",
+            "item_info",
+            "copy_item_id"
           ]
         },
         {
-          "id": "controls",
-          "title": "omniwheel.default.wheel.controls",
+          "id": "location",
+          "title": "omniwheel.default.wheel.location",
           "description": "",
-          "segmentCount": 4,
+          "segmentCount": 6,
           "active": true,
           "entries": [
             {
-              "id": "swap_offhand",
-              "label": "omniwheel.default.entry.swap_offhand",
-              "description": "omniwheel.default.entry.swap_offhand.description",
-              "icon": "minecraft:shield",
+              "id": "copy_position",
+              "label": "omniwheel.default.entry.copy_position",
+              "description": "omniwheel.default.entry.copy_position.description",
+              "icon": "minecraft:map",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -460,16 +369,73 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "function",
-                "value": "swap_offhand",
+                "type": "copy_text",
+                "value": "{position}",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "pick_block",
-              "label": "omniwheel.default.entry.pick_block",
-              "description": "omniwheel.default.entry.pick_block.description",
+              "id": "copy_exact_position",
+              "label": "omniwheel.default.entry.copy_exact_position",
+              "description": "omniwheel.default.entry.copy_exact_position.description",
+              "icon": "minecraft:filled_map",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "copy_text",
+                "value": "{exact_position}",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "location_info",
+              "label": "omniwheel.default.entry.location_info",
+              "description": "omniwheel.default.entry.location_info.description",
+              "icon": "minecraft:compass",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "local_message",
+                "value": "omniwheel.default.text.location_info",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "copy_dimension",
+              "label": "omniwheel.default.entry.copy_dimension",
+              "description": "omniwheel.default.entry.copy_dimension.description",
+              "icon": "minecraft:obsidian",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "copy_text",
+                "value": "{dimension}",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "copy_biome",
+              "label": "omniwheel.default.entry.copy_biome",
+              "description": "omniwheel.default.entry.copy_biome.description",
               "icon": "minecraft:grass_block",
               "color": -2498329,
               "guiColor": -668915663,
@@ -479,17 +445,17 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "function",
-                "value": "pick_block",
+                "type": "copy_text",
+                "value": "{biome}",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "previous_slot",
-              "label": "omniwheel.default.entry.previous_slot",
-              "description": "omniwheel.default.entry.previous_slot.description",
-              "icon": "minecraft:wooden_sword",
+              "id": "copy_facing",
+              "label": "omniwheel.default.entry.copy_facing",
+              "description": "omniwheel.default.entry.copy_facing.description",
+              "icon": "minecraft:recovery_compass",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -498,37 +464,20 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "function",
-                "value": "hotbar_previous",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "next_slot",
-              "label": "omniwheel.default.entry.next_slot",
-              "description": "omniwheel.default.entry.next_slot.description",
-              "icon": "minecraft:wooden_pickaxe",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "function",
-                "value": "hotbar_next",
+                "type": "copy_text",
+                "value": "{facing}",
                 "requireConfirmation": false,
                 "preset": false
               }
             }
           ],
           "radialOrder": [
-            "swap_offhand",
-            "pick_block",
-            "previous_slot",
-            "next_slot"
+            "copy_position",
+            "copy_exact_position",
+            "location_info",
+            "copy_dimension",
+            "copy_biome",
+            "copy_facing"
           ]
         },
         {
@@ -703,17 +652,17 @@
           ]
         },
         {
-          "id": "location",
-          "title": "omniwheel.default.wheel.location",
+          "id": "controls",
+          "title": "omniwheel.default.wheel.controls",
           "description": "",
-          "segmentCount": 6,
+          "segmentCount": 4,
           "active": true,
           "entries": [
             {
-              "id": "copy_position",
-              "label": "omniwheel.default.entry.copy_position",
-              "description": "omniwheel.default.entry.copy_position.description",
-              "icon": "minecraft:map",
+              "id": "swap_offhand",
+              "label": "omniwheel.default.entry.swap_offhand",
+              "description": "omniwheel.default.entry.swap_offhand.description",
+              "icon": "minecraft:shield",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -722,73 +671,16 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "copy_text",
-                "value": "{position}",
+                "type": "function",
+                "value": "swap_offhand",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "copy_exact_position",
-              "label": "omniwheel.default.entry.copy_exact_position",
-              "description": "omniwheel.default.entry.copy_exact_position.description",
-              "icon": "minecraft:filled_map",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{exact_position}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "location_info",
-              "label": "omniwheel.default.entry.location_info",
-              "description": "omniwheel.default.entry.location_info.description",
-              "icon": "minecraft:compass",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "local_message",
-                "value": "omniwheel.default.text.location_info",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_dimension",
-              "label": "omniwheel.default.entry.copy_dimension",
-              "description": "omniwheel.default.entry.copy_dimension.description",
-              "icon": "minecraft:obsidian",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "copy_text",
-                "value": "{dimension}",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "copy_biome",
-              "label": "omniwheel.default.entry.copy_biome",
-              "description": "omniwheel.default.entry.copy_biome.description",
+              "id": "pick_block",
+              "label": "omniwheel.default.entry.pick_block",
+              "description": "omniwheel.default.entry.pick_block.description",
               "icon": "minecraft:grass_block",
               "color": -2498329,
               "guiColor": -668915663,
@@ -798,17 +690,17 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "copy_text",
-                "value": "{biome}",
+                "type": "function",
+                "value": "pick_block",
                 "requireConfirmation": false,
                 "preset": false
               }
             },
             {
-              "id": "copy_facing",
-              "label": "omniwheel.default.entry.copy_facing",
-              "description": "omniwheel.default.entry.copy_facing.description",
-              "icon": "minecraft:recovery_compass",
+              "id": "previous_slot",
+              "label": "omniwheel.default.entry.previous_slot",
+              "description": "omniwheel.default.entry.previous_slot.description",
+              "icon": "minecraft:wooden_sword",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -817,20 +709,148 @@
               "showShortcut": true,
               "shortcut": "",
               "action": {
-                "type": "copy_text",
-                "value": "{facing}",
+                "type": "function",
+                "value": "hotbar_previous",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "next_slot",
+              "label": "omniwheel.default.entry.next_slot",
+              "description": "omniwheel.default.entry.next_slot.description",
+              "icon": "minecraft:wooden_pickaxe",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "function",
+                "value": "hotbar_next",
                 "requireConfirmation": false,
                 "preset": false
               }
             }
           ],
           "radialOrder": [
-            "copy_position",
-            "copy_exact_position",
-            "location_info",
-            "copy_dimension",
-            "copy_biome",
-            "copy_facing"
+            "swap_offhand",
+            "pick_block",
+            "previous_slot",
+            "next_slot"
+          ]
+        },
+        {
+          "id": "vanilla_main",
+          "title": "omniwheel.default.wheel.main",
+          "description": "",
+          "segmentCount": 5,
+          "active": true,
+          "entries": [
+            {
+              "id": "entry_1",
+              "label": "Jade",
+              "description": "",
+              "icon": "minecraft:spyglass",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "key.jade.show_overlay",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_2",
+              "label": "OmniWheel",
+              "description": "",
+              "icon": "create:clipboard",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "key.omniwheel.open_manager",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_3",
+              "label": "Calculator",
+              "description": "",
+              "icon": "gtceuterminal:dismantler",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "key.gtcalcboard.open_board",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_4",
+              "label": "Placement",
+              "description": "",
+              "icon": "minecraft:bamboo_mosaic_stairs",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "key.additionalplacements.placement_toggle",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_5",
+              "label": "Voice Chat",
+              "description": "",
+              "icon": "particle:create:wifi",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "key.voice_chat",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            }
+          ],
+          "radialOrder": [
+            "entry_1",
+            "entry_2",
+            "entry_5",
+            "entry_3",
+            "entry_4"
           ]
         }
       ]
@@ -841,17 +861,17 @@
       "rootWheelId": "main",
       "wheels": [
         {
-          "id": "main",
-          "title": "omniwheel.default.wheel.main",
+          "id": "submenu_4",
+          "title": "Submenu",
           "description": "",
-          "segmentCount": 6,
+          "segmentCount": 3,
           "active": true,
           "entries": [
             {
-              "id": "entry_1_2",
-              "label": "Map",
+              "id": "entry_3",
+              "label": "Menu",
               "description": "",
-              "icon": "minecraft:filled_map",
+              "icon": "minecraft:name_tag",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -861,45 +881,7 @@
               "shortcut": "",
               "action": {
                 "type": "keybind",
-                "value": "gui.xaero_open_map",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "entry_5",
-              "label": "Minimap",
-              "description": "",
-              "icon": "minecraft:filled_map",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "keybind",
-                "value": "gui.xaero_toggle_map",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "entry_1_3",
-              "label": "New WP",
-              "description": "",
-              "icon": "minecraft:red_banner",
-              "color": -2498329,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "keybind",
-                "value": "gui.xaero_new_waypoint",
+                "value": "gui.xaero_waypoints_key",
                 "requireConfirmation": false,
                 "preset": false
               }
@@ -924,10 +906,10 @@
               }
             },
             {
-              "id": "entry_3",
-              "label": "Waypoints",
+              "id": "entry_1_3",
+              "label": "New WP",
               "description": "",
-              "icon": "minecraft:name_tag",
+              "icon": "minecraft:red_banner",
               "color": -2498329,
               "guiColor": -668915663,
               "active": true,
@@ -937,26 +919,7 @@
               "shortcut": "",
               "action": {
                 "type": "keybind",
-                "value": "gui.xaero_waypoints_key",
-                "requireConfirmation": false,
-                "preset": false
-              }
-            },
-            {
-              "id": "entry_7",
-              "label": "Visual",
-              "description": "Open another wheel.",
-              "icon": "S",
-              "color": -7413249,
-              "guiColor": -668915663,
-              "active": true,
-              "showIcon": true,
-              "showLabel": true,
-              "showShortcut": true,
-              "shortcut": "",
-              "action": {
-                "type": "open_wheel",
-                "value": "submenu_3",
+                "value": "gui.xaero_new_waypoint",
                 "requireConfirmation": false,
                 "preset": false
               }
@@ -964,21 +927,9 @@
           ],
           "radialOrder": [
             "entry_1_3",
-            "entry_1_2",
-            "entry_7",
             "entry_3",
-            "entry_5",
             "entry_2"
           ]
-        },
-        {
-          "id": "submenu_2",
-          "title": "Submenu",
-          "description": "",
-          "segmentCount": 1,
-          "active": true,
-          "entries": [],
-          "radialOrder": []
         },
         {
           "id": "submenu_3",
@@ -1090,6 +1041,106 @@
             "entry_3",
             "entry_4"
           ]
+        },
+        {
+          "id": "main",
+          "title": "omniwheel.default.wheel.main",
+          "description": "",
+          "segmentCount": 4,
+          "active": true,
+          "entries": [
+            {
+              "id": "entry_1_2",
+              "label": "Map",
+              "description": "",
+              "icon": "minecraft:filled_map",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "gui.xaero_open_map",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_5",
+              "label": "Minimap",
+              "description": "",
+              "icon": "minecraft:filled_map",
+              "color": -2498329,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "keybind",
+                "value": "gui.xaero_toggle_map",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_1",
+              "label": "Waypoints",
+              "description": "Open another wheel.",
+              "icon": "S",
+              "color": -7413249,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "open_wheel",
+                "value": "submenu_4",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            },
+            {
+              "id": "entry_7",
+              "label": "Visual",
+              "description": "Open another wheel.",
+              "icon": "S",
+              "color": -7413249,
+              "guiColor": -668915663,
+              "active": true,
+              "showIcon": true,
+              "showLabel": true,
+              "showShortcut": true,
+              "shortcut": "",
+              "action": {
+                "type": "open_wheel",
+                "value": "submenu_3",
+                "requireConfirmation": false,
+                "preset": false
+              }
+            }
+          ],
+          "radialOrder": [
+            "entry_1_2",
+            "entry_7",
+            "entry_1",
+            "entry_5"
+          ]
+        },
+        {
+          "id": "submenu_2",
+          "title": "Submenu",
+          "description": "",
+          "segmentCount": 1,
+          "active": true,
+          "entries": [],
+          "radialOrder": []
         },
         {
           "id": "submenu_1",
