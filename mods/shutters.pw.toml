@@ -1,0 +1,13 @@
+name = "Shutters"
+filename = "shutter-2.3.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NjHNA0vG/versions/yIRtDpZe/shutter-2.3.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "14a12a7d22a381839eaad3c9fb48360bdfb59af08fc16eb37c3b0069f98b654b1d0d359b692b9cb058eb7b1e74c61bf074f3a90cbb26c7b8106a588442451870"
+
+[update]
+[update.modrinth]
+mod-id = "NjHNA0vG"
+version = "yIRtDpZe"

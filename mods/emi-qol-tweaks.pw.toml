@@ -3,11 +3,11 @@ filename = "emi-qol-tweaks-1.2.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9b0f69be868be1d1a607d72223cf98e4cde4e40a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vrv0jJyI/versions/vE9IJ3Rf/emi-qol-tweaks-1.2.jar"
+hash-format = "sha512"
+hash = "661f53ad7485c214f4f7ec464889cf275f5920862be9577d48e4d1981b97a11fda8d00610ba1a2afe70e9c4428a414147decb47b19687ca0675663afb28ea778"
 
 [update]
-[update.curseforge]
-file-id = 8713840
-project-id = 1623482
+[update.modrinth]
+mod-id = "vrv0jJyI"
+version = "vE9IJ3Rf"

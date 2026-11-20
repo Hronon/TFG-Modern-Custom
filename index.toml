@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-qol-tweaks.pw.toml"
-hash = "cfa588a294f1c2c2e47e3a2a5fadba412b60897bbf4b10223a0c805f60bd2d62"
+hash = "35a72ab477ce1efc961d7651a3fa77c8cd5277697c830508a12df4491c55ef59"
 metafile = true
 
 [[files]]
@@ -125,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/labels.pw.toml"
 hash = "3f46c69d55ff321765b0bdd51b2a9854983babc177cac10b3e7eef74a373c3c1"
-metafile = true
-
-[[files]]
-file = "mods/lauchs-shutters.pw.toml"
-hash = "5a7b49ac591ecb78eb6145f3e611c474d1008a7ca4286ca7bb8c6ec11df760b2"
 metafile = true
 
 [[files]]
@@ -170,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "0e7a29054f8653a4e5fd4c927c1fa5bea325598aa47d4b6d7ba42a8f37c99d40"
+metafile = true
+
+[[files]]
+file = "mods/shutters.pw.toml"
+hash = "ccbec556db4c01c9bfa4c099896e540a1a9b3d4f67faea340e1af60835b8f1ef"
 metafile = true
 
 [[files]]
