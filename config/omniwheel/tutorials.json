@@ -1,0 +1,33 @@
+{
+  "guideRevision": 3,
+  "contexts": {
+    "sp:/home/hronon/.var/app/org.prismlauncher.prismlauncher/data/prismlauncher/instances/tfg-custom/minecraft/saves/new world": {
+      "radialCompleted": true,
+      "managerCompleted": true,
+      "radialStep": 0,
+      "managerStep": 0
+    },
+    "sp:/home/hronon/.var/app/org.prismlauncher.prismlauncher/data/prismlauncher/instances/tfg-custom/minecraft/saves/new world (3)": {
+      "radialCompleted": true,
+      "managerCompleted": true,
+      "radialStep": 0,
+      "managerStep": 0
+    },
+    "sp:/home/hronon/.var/app/org.prismlauncher.prismlauncher/data/prismlauncher/instances/tfg-custom-26.0.1-curseforge/minecraft/saves/new world": {
+      "radialCompleted": true,
+      "managerCompleted": false,
+      "radialStep": 0,
+      "managerStep": 0
+    },
+    "mp:9883b19b-1d42-4251-a063-3216344a91d7:192.168.1.5": {
+      "radialCompleted": true,
+      "managerCompleted": true,
+      "radialStep": 0,
+      "managerStep": 0
+    }
+  },
+  "radialCompleted": false,
+  "managerCompleted": false,
+  "radialStep": 0,
+  "managerStep": 0
+}

@@ -1,0 +1,13 @@
+name = "Living Wind"
+filename = "LivingWind-Forge-1.20.1-v1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f9b79fe1d4d91d4dacf528fa77c62adab9706f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9512569
+project-id = 1743716

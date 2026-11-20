@@ -1,0 +1,13 @@
+name = "Favorite Items"
+filename = "favoriteitems-forge-1.0+1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "19fa7fe435cc65f8dd1f1c0b33157c2586e7be0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9166473
+project-id = 1743635

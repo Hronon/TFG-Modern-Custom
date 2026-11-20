@@ -1,0 +1,197 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "90d1730be1924ad010f015572942357965ee7a4456b72ffda044f5de3c38e2ce"
+
+[[files]]
+file = "config/betterf3.toml"
+hash = "2fea961eb6ec7866622d5ad4aceec1f6cf8563f823cd4b878831c5ad2b3e848d"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "3577bfc8624dc85a03c671d142a2ddc2e1b07adca9b88228630436b73bd7f637"
+
+[[files]]
+file = "config/fancymenu/customization/gui_main_menu.txt"
+hash = "d42e423967cf97a108fe23d977199066071914963da397e393bcb236267410e9"
+
+[[files]]
+file = "config/fancymenu/customization/gui_main_menu_beneath.txt"
+hash = "d69a9e598f2f183eba84d08bd1f00ddcd7788ad66d9522f20d12e208e6b8426b"
+
+[[files]]
+file = "config/hoarfrost-client.toml"
+hash = "c76bdcd0a81d8344f3da4616750dc4a34f0fd5dbe8af4f6c40f3cef0670ab67c"
+
+[[files]]
+file = "config/livinghorizons.json"
+hash = "5d6695c8b8640a8f42b0bc8fec3f7077f31cf7271d9f0b1b2c10eb3efaf3d58f"
+
+[[files]]
+file = "config/livingwind-client.toml"
+hash = "adbe6ab7224bf5fa76240a438b6676885c8ae315a39404165852cb2d8694d8a2"
+
+[[files]]
+file = "config/livingwind-common.toml"
+hash = "d760d753f4d22d215f921883db143ac39546e08b54c1f788ce6439377bdf3acd"
+
+[[files]]
+file = "config/omniwheel/profiles.json"
+hash = "ae7df2da8dae355d279dcc07a2731a189f71f6ffc2ac37adb23f9ff8dd46a7d5"
+
+[[files]]
+file = "config/omniwheel/tutorials.json"
+hash = "6c8591cf95faa0ef2210e79e67fea5afbbc85b6f51434de4b3b245b91da67f6d"
+
+[[files]]
+file = "config/petrichor-client.toml"
+hash = "b60e08cb69adefcb5f0f3a76e105b9aeb6aaec54d7f2038033c805a630163fe9"
+
+[[files]]
+file = "config/petrichor-common.toml"
+hash = "9717723be8241d032388b93ead91b446108d7617ac9b7c85ae1751a7626dc2cb"
+
+[[files]]
+file = "config/reliable_recipes/tfg_customization.json"
+hash = "4939a9ac112c25eb2e40d82cfef5aa8048e30c38fc2e0a955aa1c1208cfb4185"
+
+[[files]]
+file = "config/reliable_remover/tfg_customization.json"
+hash = "a36b02b9dd24251966cfd1be2d3b8e97ec8675072097fea55d320a446a6b0c9f"
+
+[[files]]
+file = "kubejs/server_scripts/main_server_script_custom.js"
+hash = "9fea173211c92f7c27929ce89ad94e27875ae57299c9daa347f1dfaf1522c60d"
+
+[[files]]
+file = "kubejs/server_scripts/tfg_customization/recipes.js"
+hash = "b9eaf42e5ed7dcc5e733af941eb753d3b9f8e7900cf5c6735c9902b127a9e69b"
+
+[[files]]
+file = "kubejs/server_scripts/tfg_customization/tags.js"
+hash = "f443fa63223dd012f1d9419ff809400eb21282a22a7cae4894237c40d9373cfb"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
+metafile = true
+
+[[files]]
+file = "mods/create-factory-controller.pw.toml"
+hash = "bc6de1b1f07e10a37ab9f2e207c79ffff2b01c06ff54084f1e9b6787f9bb29a9"
+metafile = true
+
+[[files]]
+file = "mods/create-green-print.pw.toml"
+hash = "eb6f8bf9f2c1956af4d7fe5dd6c6fb9b8daf0b0b0ea8a69e34eeb3ddee513150"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "b629e1961449382a5240354a78dd6c4167d65c4da01f1cb0ac3360a96ce3d429"
+metafile = true
+
+[[files]]
+file = "mods/emi-qol-tweaks.pw.toml"
+hash = "cfa588a294f1c2c2e47e3a2a5fadba412b60897bbf4b10223a0c805f60bd2d62"
+metafile = true
+
+[[files]]
+file = "mods/ett-emi-tree-tabs.pw.toml"
+hash = "19e6eb4447ddbdbb0d26033f8a15c5cf30aa6cb4f5330039637940eeb42f2270"
+metafile = true
+
+[[files]]
+file = "mods/favorite-items.pw.toml"
+hash = "73a0cf7ace4c959a10d421a0be354555bbb4264361f3eba3c535aa1d53872a90"
+metafile = true
+
+[[files]]
+file = "mods/frequency-create.pw.toml"
+hash = "8a7933b03c6d1823630efe21d4b846b1869339353249f4c2696555a783388b0a"
+metafile = true
+
+[[files]]
+file = "mods/gregtech-calculator-board.pw.toml"
+hash = "96619074405195dd850261f7773678aa723cc010986ff6e23a56834a57d0d6a6"
+metafile = true
+
+[[files]]
+file = "mods/hoarfrost-snow-blizzards.pw.toml"
+hash = "21a5de800c184fca3dd39babefafb4dfa5464eaaf489229de18867552cd10c92"
+metafile = true
+
+[[files]]
+file = "mods/labels.pw.toml"
+hash = "3f46c69d55ff321765b0bdd51b2a9854983babc177cac10b3e7eef74a373c3c1"
+metafile = true
+
+[[files]]
+file = "mods/lauchs-shutters.pw.toml"
+hash = "5a7b49ac591ecb78eb6145f3e611c474d1008a7ca4286ca7bb8c6ec11df760b2"
+metafile = true
+
+[[files]]
+file = "mods/lever-drugster.pw.toml"
+hash = "e8227b4d2acc772b7578cfd53a0c648a290022d03a895780146175ba47048318"
+metafile = true
+
+[[files]]
+file = "mods/living-horizons.pw.toml"
+hash = "8593b08bad7ce0be8a695e1bcea6ddb998f0c8cef5f18a4360020924e731cd1d"
+metafile = true
+
+[[files]]
+file = "mods/living-wind.pw.toml"
+hash = "276cc3d308eaf7a76be599e735875631ef1e008e59f503b6be016958371c86cd"
+metafile = true
+
+[[files]]
+file = "mods/mapscribble.pw.toml"
+hash = "273a4a75963441f40ffc8e80cd2a2d8be8371615057a8d533d57abb7387f75d6"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "c66fe7d8687d0010cd5b791ce6f76982606cc4b1436112bebc526845ab961724"
+metafile = true
+
+[[files]]
+file = "mods/omni-wheel.pw.toml"
+hash = "80fa8c5afbfbf5048c9780522fa4320e919d52b675e0845f50dab07af4982bb8"
+metafile = true
+
+[[files]]
+file = "mods/petrichor-rain-storms.pw.toml"
+hash = "2ffafd4af70ba0002b876d8ee615071f9dab9661b4b1ac9e0ff7aebc17ae715b"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "0e7a29054f8653a4e5fd4c927c1fa5bea325598aa47d4b6d7ba42a8f37c99d40"
+metafile = true
+
+[[files]]
+file = "mods/the-sound-of-rain.pw.toml"
+hash = "00804e8faa79bfdce2072e86890389c05d80841dc877c0856d8bdc54ee1035c5"
+metafile = true
+
+[[files]]
+file = "mods/unusual-furniture.pw.toml"
+hash = "067877d6bdc376fe3aac722694de194fd2f2542fe68b27d7968b21f11645cb09"
+metafile = true
+
+[[files]]
+file = "mods/windblown.pw.toml"
+hash = "16466c6ca05bf680bb7af8208dc1ef3408aa390d0e3cbf74c8502cccc4e22dd4"
+metafile = true
+
+[[files]]
+file = "mods/xaeronav.pw.toml"
+hash = "7ac48a5f6e265812d795133710a6b4c93d993fe75af9ec82537b812a4cc6b797"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e8c1f77eb9dfc70b277db6bcd9c4f5186e380ffa2a9d34021abdff5390a5811e"

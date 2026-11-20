@@ -1,0 +1,13 @@
+name = "EMI QoL Tweaks"
+filename = "emi-qol-tweaks-1.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9b0f69be868be1d1a607d72223cf98e4cde4e40a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8713840
+project-id = 1623482

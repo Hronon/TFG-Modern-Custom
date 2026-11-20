@@ -1,0 +1,13 @@
+name = "MapScribble"
+filename = "mapscribble-0.3.0-1.20.1-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a886bd286b88c3b405e743f0b41c8dc4014d2266"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9529962
+project-id = 1757645

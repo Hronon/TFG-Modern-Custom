@@ -1,0 +1,13 @@
+name = "The New Shutters"
+filename = "shutter-2.3.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ae68c7a88a78a383de7a8310e1a5bd58e60e1e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8541161
+project-id = 714019

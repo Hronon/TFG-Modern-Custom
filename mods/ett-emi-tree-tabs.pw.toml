@@ -1,0 +1,13 @@
+name = "ETT - EMI Tree Tabs"
+filename = "emitreetabs-forge-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8ccfe172241331d8a71f77b2f69674563388d62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9389960
+project-id = 1677804

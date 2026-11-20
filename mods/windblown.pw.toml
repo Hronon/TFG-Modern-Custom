@@ -1,0 +1,13 @@
+name = "Windblown - Swaying Plants"
+filename = "windblown-forge-1.0.8-mc1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "9641ef7e409680e906e385ab8479d91fed709351"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9565266
+project-id = 1746870

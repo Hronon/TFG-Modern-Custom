@@ -1,0 +1,13 @@
+name = "XaeroNav"
+filename = "xaeronav-1.0.0-forge-1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "634d0f885bef5913c9cb4d10137004a96934964b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9384491
+project-id = 1677485

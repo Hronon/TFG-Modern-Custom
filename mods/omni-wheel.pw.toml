@@ -1,0 +1,13 @@
+name = "Omni Wheel"
+filename = "omniwheel-2.1.0-forge-mc1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0b1bf48bb240743eecd24ae3564bd77a45b46c35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9500588
+project-id = 1645840

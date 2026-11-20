@@ -1,0 +1,13 @@
+name = "Petrichor: Rain & Storms"
+filename = "petrichor-forge-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a5e6966681ca1ae222932eac766e0d181c37a20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9340210
+project-id = 1729574

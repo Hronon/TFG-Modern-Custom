@@ -1,0 +1,9 @@
+[
+	{
+		"action": "remove_all_tags",
+		"id": [
+			"unusual_furniture:card",
+			"create_furniture:card"
+		]
+	}
+]
